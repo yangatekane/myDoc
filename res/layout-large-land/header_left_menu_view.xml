@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="210dp"
+    android:background="@drawable/header_menu_background">
+    <ImageView
+        android:id="@+id/menu_imgAvatar"
+        style="@style/Avatar"
+        android:layout_marginTop="80dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/image_background"
+        android:src="@drawable/avatar_blank" />
+
+    <TextView
+        android:id="@+id/menu_txtTitle"
+        style="@style/ListItem_Title"
+        android:layout_marginTop="80dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/menu_imgAvatar"
+        android:text="myDoc app"
+        android:textSize="15sp"/>
+
+    <TextView
+        android:id="@+id/txtDescription"
+        style="@style/ListItem_Description"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/menu_imgAvatar"
+        android:layout_alignLeft="@+id/menu_txtTitle"
+        android:layout_below="@+id/menu_txtTitle"
+        android:text="To make patient management easy for private doctors"
+        android:minHeight="45dp"
+        android:textSize="13sp" />
+</RelativeLayout>

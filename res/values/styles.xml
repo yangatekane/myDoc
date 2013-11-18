@@ -1,0 +1,62 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+
+    <style name="AppThemeNoActionBar" parent="android:Theme.Black.NoTitleBar">
+    </style>
+
+    <style name="TextAppearanceMedium" >
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextAppearanceSmall">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="HeadingText">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="NormalText">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="SmallText">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="Avatar">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:padding">1dp</item>
+    </style>
+
+    <style name="ListItem_Title">
+        <item name="android:textColor">#0079AA</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ListItem_Description">
+        <item name="android:textColor">#636363</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">11sp</item>
+    </style>
+
+    <style name="Button_Text">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

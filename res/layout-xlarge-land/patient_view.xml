@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:background="@drawable/metallic_background"
+    android:padding="5dp" >
+
+    <ImageView
+        android:id="@+id/imgAvatar"
+        style="@style/Avatar"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/image_background"
+        android:src="@drawable/avatar_blank" />
+
+    <TextView
+        android:id="@+id/txtTitle"
+        style="@style/ListItem_Title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/imgAvatar"
+        android:textSize="15sp"/>
+
+    <TextView
+        android:id="@+id/txtDescription"
+        style="@style/ListItem_Description"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imgAvatar"
+        android:layout_alignLeft="@+id/txtTitle"
+        android:layout_below="@+id/txtTitle"
+        android:minHeight="45dp"
+        android:textSize="13sp" />
+
+    <TableLayout
+        android:id="@+id/tableLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/imgAvatar"
+        android:layout_marginTop="3dp">
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:weightSum="2">
+            <Button
+                android:id="@+id/btnView"
+                style="@style/Button_Text"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_amber"
+                android:padding="5dp"
+                android:text="View"
+                android:layout_weight="1"
+                android:layout_margin="2dp"/>
+            <Button
+                android:id="@+id/btnPrescribe"
+                style="@style/Button_Text"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_green"
+                android:padding="5dp"
+                android:text="Prescibe"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_margin="2dp"/>
+        </TableRow>
+    </TableLayout>
+
+</RelativeLayout>
