@@ -14,7 +14,14 @@ dependencies {
 
 android {
     compileSdkVersion 18
-    buildToolsVersion "18.0.1"
+    buildToolsVersion "17"
+
+    defaultConfig{
+        minSdkVersion 14
+        targetSdkVersion 19
+        testPackageName "com.mydoc.test"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
 
     sourceSets {
         main {
@@ -22,6 +29,7 @@ android {
             java.srcDirs = ['java']
             res.srcDirs = ['res']
             assets.srcDirs = ['assets']
+
         }
 
         instrumentTest.setRoot('tests')

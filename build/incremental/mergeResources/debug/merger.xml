@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/yanga/proofOfconcept/myDoc/res" >
+            <file
+                name="home_activity"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout-xlarge-land/home_activity.xml"
+                qualifiers="xlarge-land"
+                type="layout" />
+            <file
+                name="patient_view"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout-xlarge-land/patient_view.xml"
+                qualifiers="xlarge-land"
+                type="layout" />
+            <file
+                name="existing_patient_activity"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout-xlarge-land/existing_patient_activity.xml"
+                qualifiers="xlarge-land"
+                type="layout" />
+            <file
+                name="existing_patient_base_activity"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout-xlarge-land/existing_patient_base_activity.xml"
+                qualifiers="xlarge-land"
+                type="layout" />
+            <file
+                name="home_base_activity"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout-xlarge-land/home_base_activity.xml"
+                qualifiers="xlarge-land"
+                type="layout" />
+            <file
+                name="left_menu_view"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout-xlarge-land/left_menu_view.xml"
+                qualifiers="xlarge-land"
+                type="layout" />
+            <file
+                name="available_jobs_view"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout-xlarge-land/available_jobs_view.xml"
+                qualifiers="xlarge-land"
+                type="layout" />
+            <file
+                name="ic_drawer"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-mdpi/ic_drawer.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-mdpi/drawer_shadow.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_switch_video_drk"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-mdpi/ic_switch_video_drk.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_content_picture"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-mdpi/ic_content_picture.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_switch_camera_drk"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-mdpi/ic_switch_camera_drk.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_dock_drk"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-mdpi/ic_dock_drk.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_camera"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-mdpi/ic_camera.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_switch_camera_lght"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-xhdpi/ic_switch_camera_lght.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_camera_big"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-xhdpi/ic_camera_big.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_switch_video_lght"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-xhdpi/ic_switch_video_lght.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_switch_video_drk"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-xhdpi/ic_switch_video_drk.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_content_picture"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-xhdpi/ic_content_picture.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_dock_lght"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-xhdpi/ic_dock_lght.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_switch_camera_drk"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-xhdpi/ic_switch_camera_drk.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_dock_drk"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-xhdpi/ic_dock_drk.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_camera"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-xhdpi/ic_camera.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                path="/home/yanga/proofOfconcept/myDoc/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/yanga/proofOfconcept/myDoc/res/values/arrays.xml"
+                qualifiers="" >
+                <string-array name="years" >
+                    <item>
+year
+                    </item>
+                    <item>
+2013
+                    </item>
+                    <item>
+2012
+                    </item>
+                    <item>
+2011
+                    </item>
+                    <item>
+2010
+                    </item>
+                    <item>
+2009
+                    </item>
+                    <item>
+2008
+                    </item>
+                    <item>
+2007
+                    </item>
+                    <item>
+2006
+                    </item>
+                    <item>
+2005
+                    </item>
+                    <item>
+2004
+                    </item>
+                    <item>
+2003
+                    </item>
+                    <item>
+2002
+                    </item>
+                    <item>
+2001
+                    </item>
+                    <item>
+2000
+                    </item>
+                    <item>
+1999
+                    </item>
+                    <item>
+1998
+                    </item>
+                    <item>
+1997
+                    </item>
+                    <item>
+1996
+                    </item>
+                    <item>
+1995
+                    </item>
+                    <item>
+1994
+                    </item>
+                    <item>
+1993
+                    </item>
+                    <item>
+1992
+                    </item>
+                    <item>
+1991
+                    </item>
+                    <item>
+1990
+                    </item>
+                </string-array>
+                <string-array name="payment_types" >
+                    <item>
+Payment Type
+                    </item>
+                    <item>
+Medical Aid
+                    </item>
+                    <item>
+Cash
+                    </item>
+                </string-array>
+                <string-array name="months" >
+                    <item>
+month
+                    </item>
+                    <item>
+January
+                    </item>
+                    <item>
+February
+                    </item>
+                    <item>
+March
+                    </item>
+                    <item>
+April
+                    </item>
+                    <item>
+May
+                    </item>
+                    <item>
+June
+                    </item>
+                    <item>
+July
+                    </item>
+                    <item>
+August
+                    </item>
+                    <item>
+September
+                    </item>
+                    <item>
+October
+                    </item>
+                    <item>
+November
+                    </item>
+                    <item>
+December
+                    </item>
+                </string-array>
+                <string-array name="days" >
+                    <item>
+day
+                    </item>
+                    <item>
+1
+                    </item>
+                    <item>
+2
+                    </item>
+                    <item>
+3
+                    </item>
+                    <item>
+4
+                    </item>
+                    <item>
+5
+                    </item>
+                    <item>
+6
+                    </item>
+                    <item>
+7
+                    </item>
+                    <item>
+8
+                    </item>
+                    <item>
+9
+                    </item>
+                    <item>
+10
+                    </item>
+                    <item>
+11
+                    </item>
+                    <item>
+12
+                    </item>
+                    <item>
+13
+                    </item>
+                    <item>
+14
+                    </item>
+                    <item>
+15
+                    </item>
+                    <item>
+16
+                    </item>
+                    <item>
+17
+                    </item>
+                    <item>
+18
+                    </item>
+                    <item>
+19
+                    </item>
+                    <item>
+20
+                    </item>
+                    <item>
+21
+                    </item>
+                    <item>
+22
+                    </item>
+                    <item>
+23
+                    </item>
+                    <item>
+24
+                    </item>
+                    <item>
+25
+                    </item>
+                    <item>
+26
+                    </item>
+                    <item>
+27
+                    </item>
+                    <item>
+28
+                    </item>
+                    <item>
+29
+                    </item>
+                    <item>
+30
+                    </item>
+                    <item>
+31
+                    </item>
+                </string-array>
+                <string-array name="left_menu" >
+                    <item>
+Associates
+                    </item>
+                    <item>
+Events
+                    </item>
+                    <item>
+Locations
+                    </item>
+                    <item>
+Communities
+                    </item>
+                </string-array>
+            </file>
+            <file
+                path="/home/yanga/proofOfconcept/myDoc/res/values/envstrings.xml"
+                qualifiers="" >
+                <string name="device_one_camera" >Nexus 7
+                </string>
+            </file>
+            <file
+                path="/home/yanga/proofOfconcept/myDoc/res/values/styles.xml"
+                qualifiers="" >
+
+                <style name="ListItem_Description" >
+                    <item name="android:textColor">
+#636363
+                    </item>
+                    <item name="android:typeface">
+sans
+                    </item>
+                    <item name="android:textSize">
+11sp
+                    </item>
+                </style>
+
+                <style name="Avatar" >
+                    <item name="android:layout_width">
+100dp
+                    </item>
+                    <item name="android:layout_height">
+100dp
+                    </item>
+                    <item name="android:layout_marginRight">
+5dp
+                    </item>
+                    <item name="android:padding">
+1dp
+                    </item>
+                </style>
+
+                <style
+                    name="AppThemeNoActionBar"
+                    parent="android:Theme.Black.NoTitleBar" >
+                </style>
+
+                <style name="Button_Text" >
+                    <item name="android:textColor">
+#FFFFFF
+                    </item>
+                    <item name="android:typeface">
+sans
+                    </item>
+                    <item name="android:textSize">
+14sp
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                </style>
+
+                <style name="NormalText" >
+                    <item name="android:textColor">
+@color/black
+                    </item>
+                    <item name="android:textSize">
+14sp
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+                </style>
+
+                <style name="ListItem_Title" >
+                    <item name="android:textColor">
+#0079AA
+                    </item>
+                    <item name="android:typeface">
+sans
+                    </item>
+                    <item name="android:textSize">
+12sp
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                </style>
+
+                <style name="HeadingText" >
+                    <item name="android:textColor">
+@color/black
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                    <item name="android:textSize">
+22sp
+                    </item>
+                </style>
+
+                <style name="TextAppearanceMedium" >
+                    <item name="android:textSize">
+18sp
+                    </item>
+                </style>
+
+                <style name="SmallText" >
+                    <item name="android:textColor">
+@color/black
+                    </item>
+                    <item name="android:textSize">
+12sp
+                    </item>
+                </style>
+
+                <style name="TextAppearanceSmall" >
+                    <item name="android:textSize">
+14sp
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+                </style>
+            </file>
+            <file
+                path="/home/yanga/proofOfconcept/myDoc/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/home/yanga/proofOfconcept/myDoc/res/values/colors.xml"
+                qualifiers="" >
+                <color name="inner_border_one" >#FF323232
+                </color>
+                <color name="green" >#00FF00
+                </color>
+                <color name="medium_blue" >#0000CD
+                </color>
+                <color name="profile_text_color_light" >#5c5c5c
+                </color>
+                <color name="horizon_sky_from" >#FFA52A2A
+                </color>
+                <color name="marker_color" >#FFFF
+                </color>
+                <color name="shadow_color" >#7AAA
+                </color>
+                <color name="horizon_sky_to" >#FFFFC125
+                </color>
+                <color name="horizon_ground_to" >#FF00008B
+                </color>
+                <color name="inner_border_two" >#FF414141
+                </color>
+                <color name="black" >#000000
+                </color>
+                <color name="background_color" >#F000
+                </color>
+                <color name="action_color" >#FBF4FF
+                </color>
+                <color name="horizon_ground_from" >#FF5F9EA0
+                </color>
+                <color name="lime" >#6EFFC8
+                </color>
+                <color name="blue" >#0000FF
+                </color>
+                <color name="navy" >#000080
+                </color>
+                <color name="text_color" >#FFFF
+                </color>
+                <color name="red" >#FF0000
+                </color>
+                <color name="light_blue" >#17A2D7
+                </color>
+                <color name="inner_border" >#FFFFFFFF
+                </color>
+                <color name="white" >#FFFFFF
+                </color>
+                <color name="dark_blue" >#00008b
+                </color>
+                <color name="lime_blue" >#5d7bf0
+                </color>
+                <color name="outer_border" >#FF444444
+                </color>
+            </file>
+            <file
+                path="/home/yanga/proofOfconcept/myDoc/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="exist_patients" >Existing Patients
+                </string>
+                <string name="text_title" >Title:
+                </string>
+                <string name="menu_delete" >Delete
+                </string>
+                <string name="medical" >Medical
+                </string>
+                <string name="error_message" >Error loading note
+                </string>
+                <string name="treatment_eula" ><u>
+I agree to the Terms of the End User License Agreement
+                    </u></string>
+                <string name="title_edit" >Edit: %1$s
+                </string>
+                <string name="cancel" >Cancel
+                </string>
+                <string name="nothing_to_save" >There is nothing to save
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="menu_save" >Save
+                </string>
+                <string name="resolve_edit" >Edit note
+                </string>
+                <string name="menu_paste" >Paste
+                </string>
+                <string name="error_title" >Error
+                </string>
+                <string name="live_folder_name" >Notes
+                </string>
+                <string name="menu_copy" >Copy
+                </string>
+                <string name="riadio" >Radiography
+                </string>
+                <string name="title_create" >New note
+                </string>
+                <string name="button_ok" >OK
+                </string>
+                <string name="dental" >Dental
+                </string>
+                <string name="drawer_close" >close
+                </string>
+                <string name="emergency_patient" >Emergency Patients
+                </string>
+                <string name="resolve_title" >Edit title
+                </string>
+                <string name="title_edit_title" >Note title:
+                </string>
+                <string name="title_notes_list" >Notes
+                </string>
+                <string name="menu_open" >Open
+                </string>
+                <string name="save" >Save
+                </string>
+                <string name="menu_add" >New note
+                </string>
+                <string name="app_name" >myDoc
+                </string>
+                <string name="next" >Next
+                </string>
+                <string name="drawer_open" >open
+                </string>
+                <string name="new_patient" >New Patient
+                </string>
+                <string name="menu_revert" >Revert changes
+                </string>
+            </file>
+            <file
+                name="noteslist_item"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout/noteslist_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="note_editor"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout/note_editor.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="title_editor"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout/title_editor.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="custom_toast"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout/custom_toast.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="prescription_background"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/prescription_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="button_green"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/button_green.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="toast"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/toast.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="botton_selected"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/botton_selected.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_camera"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/ic_camera.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="docking_border"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/docking_border.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="image_background"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/image_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="live_folder_notes"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/live_folder_notes.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="bottom_action_bar_backgroud"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/bottom_action_bar_backgroud.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="avatar_blank"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/avatar_blank.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_camera_layer"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/ic_camera_layer.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="button_state"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/button_state.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_menu_edit"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/ic_menu_edit.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="asociates"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/asociates.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="header_menu_background"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/header_menu_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_menu_delete"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/ic_menu_delete.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="locations"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/locations.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="button_amber"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/button_amber.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_dock"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/ic_dock.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_menu_revert"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/ic_menu_revert.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_menu_save"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/ic_menu_save.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="metallic_background"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/metallic_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="line_separator"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/line_separator.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="events"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/events.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_menu_compose"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/ic_menu_compose.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="button_state_gray"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/button_state_gray.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_switch_video"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/ic_switch_video.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="app_notes"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/app_notes.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="community"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/community.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="drawer_background"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/drawer_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_switch_camera"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable/ic_switch_camera.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                path="/home/yanga/proofOfconcept/myDoc/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                name="ic_drawer"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-hdpi/ic_drawer.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="live_folder_notes"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-hdpi/live_folder_notes.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_edit"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-hdpi/ic_menu_edit.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-hdpi/drawer_shadow.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_delete"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-hdpi/ic_menu_delete.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_switch_video_drk"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-hdpi/ic_switch_video_drk.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_revert"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-hdpi/ic_menu_revert.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_save"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-hdpi/ic_menu_save.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_content_picture"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-hdpi/ic_content_picture.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_compose"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-hdpi/ic_menu_compose.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_switch_camera_drk"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-hdpi/ic_switch_camera_drk.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_dock_drk"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-hdpi/ic_dock_drk.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_camera"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-hdpi/ic_camera.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="app_notes"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-hdpi/app_notes.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="live_folder_notes"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-ldpi/live_folder_notes.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="app_notes"
+                path="/home/yanga/proofOfconcept/myDoc/res/drawable-ldpi/app_notes.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="list_options_menu"
+                path="/home/yanga/proofOfconcept/myDoc/res/menu/list_options_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="editor_options_menu"
+                path="/home/yanga/proofOfconcept/myDoc/res/menu/editor_options_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="home"
+                path="/home/yanga/proofOfconcept/myDoc/res/menu/home.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="list_context_menu"
+                path="/home/yanga/proofOfconcept/myDoc/res/menu/list_context_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="big_image_view"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout-large-land/big_image_view.xml"
+                qualifiers="large-land"
+                type="layout" />
+            <file
+                name="home_activity"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout-large-land/home_activity.xml"
+                qualifiers="large-land"
+                type="layout" />
+            <file
+                name="full_image"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout-large-land/full_image.xml"
+                qualifiers="large-land"
+                type="layout" />
+            <file
+                name="patient_view"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout-large-land/patient_view.xml"
+                qualifiers="large-land"
+                type="layout" />
+            <file
+                name="existing_patient_activity"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout-large-land/existing_patient_activity.xml"
+                qualifiers="large-land"
+                type="layout" />
+            <file
+                name="existing_patient_base_activity"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout-large-land/existing_patient_base_activity.xml"
+                qualifiers="large-land"
+                type="layout" />
+            <file
+                name="home_base_activity"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout-large-land/home_base_activity.xml"
+                qualifiers="large-land"
+                type="layout" />
+            <file
+                name="left_menu_view"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout-large-land/left_menu_view.xml"
+                qualifiers="large-land"
+                type="layout" />
+            <file
+                name="available_jobs_view"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout-large-land/available_jobs_view.xml"
+                qualifiers="large-land"
+                type="layout" />
+            <file
+                name="file_upload_view"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout-large-land/file_upload_view.xml"
+                qualifiers="large-land"
+                type="layout" />
+            <file
+                name="header_left_menu_view"
+                path="/home/yanga/proofOfconcept/myDoc/res/layout-large-land/header_left_menu_view.xml"
+                qualifiers="large-land"
+                type="layout" />
+        </source>
+        <source path="/home/yanga/proofOfconcept/myDoc/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/yanga/proofOfconcept/myDoc/build-types/debug/res" />
+    </dataSet>
+
+</merger>

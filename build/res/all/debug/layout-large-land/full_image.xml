@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+              android:id="@+id/full_image_layout"
+              xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+              <ImageView
+                  android:id="@+id/full_image_view"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:duration="@android:integer/config_longAnimTime"/>
+
+</LinearLayout><!-- From: file:/home/yanga/proofOfconcept/myDoc/res/layout-large-land/full_image.xml -->

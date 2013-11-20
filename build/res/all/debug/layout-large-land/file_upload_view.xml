@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_height="wrap_content"
+              android:layout_width="match_parent"
+              android:id="@+id/file_content"
+              android:orientation="horizontal">
+
+    <ImageView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="200dp"
+            android:layout_height="190dp"
+            android:id="@+id/file_name"
+            style="@style/NormalText"
+            android:padding="8dp"/>
+
+</LinearLayout><!-- From: file:/home/yanga/proofOfconcept/myDoc/res/layout-large-land/file_upload_view.xml -->
